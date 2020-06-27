@@ -2,11 +2,11 @@
 ---
 title: "Документація"
 linkTitle: "Документація"
-weight: 30
+weight: 20
 type: list
 menu:
   main:
-    weight: 30
+    weight: 20
 ---
 
 {{% pageinfo %}}

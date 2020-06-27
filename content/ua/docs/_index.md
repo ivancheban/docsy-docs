@@ -1,7 +1,7 @@
 
 ---
-title: "TechOS-Dokumentasjon"
-linkTitle: "Dokumentasjon"
+title: "Технічна документація"
+linkTitle: "Документація"
 weight: 20
 menu:
   main:
