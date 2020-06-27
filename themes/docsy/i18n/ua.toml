@@ -3,41 +3,41 @@
 # UI strings. Buttons and similar.
 
 [ui_pager_prev]
-other = "Попереднч"
+other = "Попередня"
 
 [ui_pager_next]
-other = "Neste"
+other = "Наступна"
 
 [ui_read_more]
-other = "Les mer"
+other = "Докладніше"
 
 [ui_search]
 other = "Пошук по сайту…"
 
 # Used in sentences such as "Posted in News"
 [ui_in]
-other = "i"
+other = "у"
 
 # Footer text
 [footer_all_rights_reserved]
 other = "Усі права застережено"
 
 [footer_privacy_policy]
-other = "Privacy Policy"
+other = "Політика конфіденційності"
 
 
 # Post (blog, articles etc.)
 [post_byline_by]
-other = "Av"
+other = "Автор"
 [post_created]
-other = "Opprettet"
+other = "Опубліковано"
 [post_last_mod]
-other = "Sist endret"
+other = "Останні зміни"
 [post_edit_this]
 other = "Редагувати цю сторінку"
 [post_create_issue]
-other = "Opprett dokumentasjon sak"
+other = "Створити запит"
 [post_create_project_issue]
-other = "Opprett prosjekt sak"
+other = "Створити запит по проекту"
 [post_posts_in]
-other = "Poster i"
+other = "Публікацій у"
