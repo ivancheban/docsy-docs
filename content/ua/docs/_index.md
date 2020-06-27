@@ -1,7 +1,7 @@
 
 ---
 title: "Технічна документація"
-linkTitle: "Документація"
+linkTitle: "Технічна документація"
 weight: 20
 menu:
   main:
