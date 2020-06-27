@@ -3,7 +3,7 @@
 # UI strings. Buttons and similar.
 
 [ui_pager_prev]
-other = "Forrige"
+other = "Попереднч"
 
 [ui_pager_next]
 other = "Neste"
@@ -12,7 +12,7 @@ other = "Neste"
 other = "Les mer"
 
 [ui_search]
-other = "Søk på nettstedet…"
+other = "Пошук по сайту…"
 
 # Used in sentences such as "Posted in News"
 [ui_in]
@@ -20,7 +20,7 @@ other = "i"
 
 # Footer text
 [footer_all_rights_reserved]
-other = "Alle retter er reservert"
+other = "Усі права застережено"
 
 [footer_privacy_policy]
 other = "Privacy Policy"
@@ -34,7 +34,7 @@ other = "Opprettet"
 [post_last_mod]
 other = "Sist endret"
 [post_edit_this]
-other = "Endre denne siden"
+other = "Редагувати цю сторінку"
 [post_create_issue]
 other = "Opprett dokumentasjon sak"
 [post_create_project_issue]
