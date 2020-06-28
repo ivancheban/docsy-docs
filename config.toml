@@ -154,7 +154,7 @@ no = 'Sorry to hear that. Please <a href="https://github.com/ivancheban/docsy-do
         desc = "Chat with me on Skype"
 [[params.links.developer]]
 	name = "Phone"
-	url = "tel:#380952748078"
+	url = "tel:380952748078"
 	icon = "fa fa-phone"
         desc = "Call me to my cell phone"
 
