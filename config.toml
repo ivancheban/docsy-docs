@@ -127,19 +127,19 @@ no = 'Sorry to hear that. Please <a href="https://github.com/ivancheban/docsy-do
 [params.links]
 # End user relevant links. These will show up on left side of footer and in the community page if you have one.
 [[params.links.user]]
-	name = "User mailing list"
-	url = "https://example.org/mail"
+	name = "Send email"
+	url = "mailto:ivancheban@gmail.com"
 	icon = "fa fa-envelope"
-        desc = "Discussion and help from your fellow users"
+        desc = "Contact me via email"
 [[params.links.user]]
-	name ="Twitter"
-	url = "https://example.org/twitter"
-	icon = "fab fa-twitter"
-        desc = "Follow us on Twitter to get the latest news!"
+	name ="LinkedIn"
+	url = "https://linkedin.com/in/ivan-cheban-a24b576"
+	icon = "fab fa-linkedin-in"
+        desc = "My LinkedIn profile"
 [[params.links.user]]
-	name = "Stack Overflow"
-	url = "https://example.org/stack"
-	icon = "fab fa-stack-overflow"
+	name = "Telegram"
+	url = "http://t.me/ivan_cheban"
+	icon = "fab fa-telegram"
         desc = "Practical questions and curated answers"
 # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
 [[params.links.developer]]
@@ -148,13 +148,13 @@ no = 'Sorry to hear that. Please <a href="https://github.com/ivancheban/docsy-do
 	icon = "fab fa-github"
         desc = "Development takes place here!"
 [[params.links.developer]]
-	name = "Slack"
-	url = "https://example.org/slack"
-	icon = "fab fa-slack"
-        desc = "Chat with other project developers"
+	name = "Skype"
+	url = "skype:ivan_cheban?chativan_cheban"
+	icon = "fab fa-skype"
+        desc = "Chat with me on Skype"
 [[params.links.developer]]
-	name = "Developer mailing list"
-	url = "https://example.org/mail"
-	icon = "fa fa-envelope"
-        desc = "Discuss development issues around the project"
+	name = "Phone"
+	url = "tel:#380952748078"
+	icon = "fa fa-phone"
+        desc = "Call me to my cell phone"
 
