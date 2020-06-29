@@ -147,14 +147,14 @@ no = 'Sorry to hear that. Please <a href="https://github.com/ivancheban/docsy-do
 	url = "https://github.com/ivancheban/docsy-docs"
 	icon = "fab fa-github"
         desc = "Development takes place here!"
-[[params.links.developer]]
-	name = "Skype"
-	url = "skype:ivan_cheban?chativan_cheban"
-	icon = "fab fa-skype"
-        desc = "Chat with me on Skype"
-[[params.links.developer]]
-	name = "Phone"
-	url = "tel:380952748078"
-	icon = "fa fa-phone"
-        desc = "Call me to my cell phone"
+#[[params.links.developer]]
+	#name = "Skype"
+	#url = "skype:ivan_cheban?chativan_cheban"
+	#icon = "fab fa-skype"
+        #desc = "Chat with me on Skype"
+#[[params.links.developer]]
+	#name = "Phone"
+	#url = "tel:380952748078"
+	#icon = "fa fa-phone"
+        #desc = "Call me to my cell phone"
 
