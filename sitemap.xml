@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://docsy-docs.netlify.app/</loc>
+  <lastmod>2020-06-30T07:34:04+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://docsy-docs.netlify.app/ua/</loc>
+  <lastmod>2020-06-30T07:34:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docsy-docs.netlify.app/overview/</loc>
+  <lastmod>2020-06-30T07:34:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docsy-docs.netlify.app/tasks/beds/</loc>
+  <lastmod>2020-06-30T07:34:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docsy-docs.netlify.app/tasks/ponycopters/configuring-ponycopters/</loc>
+  <lastmod>2020-06-30T07:34:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docsy-docs.netlify.app/getting-started/</loc>
+  <lastmod>2020-06-30T07:34:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docsy-docs.netlify.app/getting-started/example-page/</loc>
+  <lastmod>2020-06-30T07:34:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docsy-docs.netlify.app/examples/</loc>
+  <lastmod>2020-06-30T07:34:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docsy-docs.netlify.app/tasks/ponycopters/launching-ponycopters/</loc>
+  <lastmod>2020-06-30T07:34:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docsy-docs.netlify.app/tutorials/multi-bear/</loc>
+  <lastmod>2020-06-30T07:34:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docsy-docs.netlify.app/tasks/porridge/</loc>
+  <lastmod>2020-06-30T07:34:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docsy-docs.netlify.app/concepts/</loc>
+  <lastmod>2020-06-30T07:34:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docsy-docs.netlify.app/tasks/task/</loc>
+  <lastmod>2020-06-30T07:34:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docsy-docs.netlify.app/tutorials/tutorial2/</loc>
+  <lastmod>2020-06-30T07:34:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docsy-docs.netlify.app/tasks/</loc>
+  <lastmod>2020-06-30T07:34:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docsy-docs.netlify.app/tasks/ponycopters/</loc>
+  <lastmod>2020-06-30T07:34:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docsy-docs.netlify.app/tutorials/</loc>
+  <lastmod>2020-06-30T07:34:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docsy-docs.netlify.app/reference/</loc>
+  <lastmod>2020-06-30T07:34:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docsy-docs.netlify.app/reference/parameter-reference/</loc>
+  <lastmod>2020-06-30T07:34:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docsy-docs.netlify.app/contribution-guidelines/</loc>
+  <lastmod>2020-06-30T07:34:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docsy-docs.netlify.app/search/</loc>
+  <lastmod>2020-06-30T07:34:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docsy-docs.netlify.app/ua/overview/</loc>
+  <lastmod>2020-06-30T07:34:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docsy-docs.netlify.app/ua/tasks/beds/</loc>
+  <lastmod>2020-06-30T07:34:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docsy-docs.netlify.app/ua/tasks/ponycopters/configuring-ponycopters/</loc>
+  <lastmod>2020-06-30T07:34:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docsy-docs.netlify.app/ua/getting-started/</loc>
+  <lastmod>2020-06-30T07:34:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docsy-docs.netlify.app/ua/getting-started/example-page/</loc>
+  <lastmod>2020-06-30T07:34:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docsy-docs.netlify.app/ua/examples/</loc>
+  <lastmod>2020-06-30T07:34:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docsy-docs.netlify.app/ua/tasks/ponycopters/launching-ponycopters/</loc>
+  <lastmod>2020-06-30T07:34:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docsy-docs.netlify.app/ua/tutorials/multi-bear/</loc>
+  <lastmod>2020-06-30T07:34:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docsy-docs.netlify.app/ua/tasks/porridge/</loc>
+  <lastmod>2020-06-30T07:34:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docsy-docs.netlify.app/ua/concepts/</loc>
+  <lastmod>2020-06-30T07:34:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docsy-docs.netlify.app/ua/tasks/task/</loc>
+  <lastmod>2020-06-30T07:34:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docsy-docs.netlify.app/ua/tutorials/tutorial2/</loc>
+  <lastmod>2020-06-30T07:34:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docsy-docs.netlify.app/ua/tasks/</loc>
+  <lastmod>2020-06-30T07:34:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docsy-docs.netlify.app/ua/tasks/ponycopters/</loc>
+  <lastmod>2020-06-30T07:34:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docsy-docs.netlify.app/ua/tutorials/</loc>
+  <lastmod>2020-06-30T07:34:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docsy-docs.netlify.app/ua/reference/</loc>
+  <lastmod>2020-06-30T07:34:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docsy-docs.netlify.app/ua/reference/parameter-reference/</loc>
+  <lastmod>2020-06-30T07:34:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docsy-docs.netlify.app/ua/contribution-guidelines/</loc>
+  <lastmod>2020-06-30T07:34:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docsy-docs.netlify.app/ua/search/</loc>
+  <lastmod>2020-06-30T07:34:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
