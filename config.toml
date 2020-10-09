@@ -56,6 +56,7 @@ id = "UA-162550995-24"
 title = "Documentation Portal"
 description = "A Docsy example site"
 languageName ="English"
+contentDir = "content/en"
 # Weight used for sorting.
 weight = 1
 [languages.ua]
