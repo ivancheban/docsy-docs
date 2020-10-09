@@ -10,7 +10,7 @@ description: >
 Our goal is to build and publish the documentation site using Jekyll and Netlify. The end result will look like this: https://sample-jekyll.netlify.app
 {{% /pageinfo %}}
 
-## Download or clone the theme from the GitHub repo
+## Download the theme from the GitHub repo
 
 1. Sign up for GitHub.
 
