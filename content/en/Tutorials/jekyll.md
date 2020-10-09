@@ -14,19 +14,19 @@ Our goal is to build and publish the documentation site using Jekyll and Netlify
 
 1. Sign up for GitHub.
 
-![img](../static/img/sign-up-GitHub.png)
+![img](/Tutorials/img/sign-up-GitHub.png)
 
 2. If you already have the account there, sign in.
 
-![img](../static/img/sign-in-GitHub.png)
+![img](/Tutorials/img/sign-in-GitHub.png)
 
 3. Go to [Tom's repository](https://github.com/tomjoht/documentation-theme-jekyll).
 
-![img](../static/img/tom-repo.png)
+![img](/Tutorials/img/tom-repo.png)
 
 4. Click the **Code** button and select **Download ZIP**.
 
-![img](../static/img/download-zip.png)
+![img](/Tutorials/img/download-zip.png)
 
 5. Save the ZIP file to your computer and unzip the contents where you like. Now you have the folder with code and content. Let's proceed with building our documentation site from all this.
 
@@ -39,19 +39,19 @@ Our goal is to build and publish the documentation site using Jekyll and Netlify
 1. Go to [RubyInstaller for Windows](https://rubyinstaller.org/downloads/).
 2. Install the recommended **Ruby+Devkit 2.6.X (x64)** version.
 
-![img](../static/img/ruby-installer.png)
+![img](/Tutorials/img/ruby-installer.png)
 
 3. Install everything by default.
 
-![img](../static/img/installation-ruby.png)
+![img](/Tutorials/img/installation-ruby.png)
 
 3. When the installation completes, you see this command prompt screen. Press `Enter` two times when prompted.
 
-![img](../static/img/ruby-installed.png)
+![img](/Tutorials/img/ruby-installed.png)
 
 4. When the installation in the command prompt exits, let's assume that we have Ruby installed. If you want to make sure, open the command prompt and type `ruby -v` and press `Enter`.
 
-![img](../static/img/check-ruby-version.png)
+![img](/Tutorials/img/check-ruby-version.png)
 
 ---
 
@@ -61,7 +61,7 @@ Our goal is to build and publish the documentation site using Jekyll and Netlify
 
 2. Check if Jekyll has been installed properly: enter `jekyll -v` and press `Enter`.
 
-![img](../static/img/check-jekyll-version.png)
+![img](/Tutorials/img/check-jekyll-version.png)
 
 ---
 
@@ -71,7 +71,7 @@ Our goal is to build and publish the documentation site using Jekyll and Netlify
 
 2. Delete the existing `Gemfile` and `Gemfile.lock` files.
 
-![img](../static/img/project-folder.png)
+![img](/Tutorials/img/project-folder.png)
 
 ### Change directory
 
@@ -79,13 +79,13 @@ First, you need to change the directory in the Command Prompt.
 
 1. In your file explorer, copy the path to the unzipped folder with your project.
 
-![img](../static/img/path-to-project-folder.png)
+![img](/Tutorials/img/path-to-project-folder.png)
 
 2. In the Command prompt, enter `cd` and right-click to paste the copied path.
 
 3. Press `Enter` to change the directory. Now you can execute commands in the project directory.
 
-![img](../static/img/paste-path-command-prompt.png)
+![img](/Tutorials/img/paste-path-command-prompt.png)
 
 ---
 
@@ -93,7 +93,7 @@ First, you need to change the directory in the Command Prompt.
 
 1. To install Bundler, enter `gem install bundler` and press `Enter`.
 
-![img](../static/img/gem-install-bundler.png)
+![img](/Tutorials/img/gem-install-bundler.png)
 
 2. Enter the following commands:
 
@@ -102,13 +102,13 @@ bundle init
 bundle install
 ```
 
-![img](../static/img/bundle-init-bundle-install.png)
+![img](/Tutorials/img/bundle-init-bundle-install.png)
 
 These commands created new `Gemfile` files in your project folder.
 
 3. Open the `Gemfile` with Notepad.
 
-![img](../static/img/gemfile.png)
+![img](/Tutorials/img/gemfile.png)
 
 4. Delete everything in this file.
 
@@ -120,7 +120,7 @@ source "https://rubygems.org"
 gem "jekyll"
 ```
 
-![img](../static/img/notepad-edit-gemfile.png)
+![img](/Tutorials/img/notepad-edit-gemfile.png)
 
 ---
 
@@ -136,11 +136,11 @@ To build your Jekyll site locally:
 
 3. To access the site locally, copy the address from the Command Prompt: [http://127.0.0.1:4000](http://127.0.0.1:4000/)
 
-![img](../static/img/jekyll-serve.png)
+![img](/Tutorials/img/jekyll-serve.png)
 
 4. Paste the address in your browser and you will see the site.
 
-![img](../static/img/site-built-locally.png)
+![img](/Tutorials/img/site-built-locally.png)
 
 You can access all the site content locally from the project folder.
 
@@ -162,7 +162,7 @@ To stop the local server where your site is served, press `Ctrl+C` in the Comman
 
 Install VSCode from its [official site](https://code.visualstudio.com/download).
 
-![img](../static/img/download-vscode.png)
+![img](/Tutorials/img/download-vscode.png)
 
 Useful links for setting up VSCode for viewing and editing Markdown files:
 
@@ -179,7 +179,7 @@ Useful links for setting up VSCode for viewing and editing Markdown files:
 
 1. Install Git client from its [official site](https://git-scm.com/).
 
-![img](../static/img/download-git-client.png)
+![img](/Tutorials/img/download-git-client.png)
 
 2. Install everything by default. You may close the Git client window.
 
@@ -191,15 +191,15 @@ Useful links for setting up VSCode for viewing and editing Markdown files:
 
 2. Select **File** > **Open Folder**.
 
-![img](../static/img/open-project-folder-vscode.png)
+![img](/Tutorials/img/open-project-folder-vscode.png)
 
 3. Open the project folder.
 
-![img](../static/img/open-project-folder.png)
+![img](/Tutorials/img/open-project-folder.png)
 
 Now you will see the folder contents in the VSCode editor. If you open the folder with content and click the **.md** file, you will see the file markup.
 
-![img](../static/img/markdown-markup.png)
+![img](/Tutorials/img/markdown-markup.png)
 
 Now you can edit the files. But you need to upload this folder to your GitHub repository to sync the changes.
 
@@ -209,19 +209,19 @@ Now you can edit the files. But you need to upload this folder to your GitHub re
 
 1. Go to the Source Control section of VSCode and click the **Publish to GitHub** button.
 
-![img](../static/img/publish-to-github.png)
+![img](/Tutorials/img/publish-to-github.png)
 
 2. Select **Publish to GitHub public repository**.
 
-![img](../static/img/publish-to-public-repository.png)
+![img](/Tutorials/img/publish-to-public-repository.png)
 
 3. Select **Open in GitHub** to open your newly created project repository in GitHub.
 
-![img](../static/img/open-in-github.png)
+![img](/Tutorials/img/open-in-github.png)
 
 You will see your project folder structure. Now your local folder is synced to the GitHub cloud server. Every change that you make locally will be synced to the GitHub server.
 
-![img](../static/img/project-your-repository.png)
+![img](/Tutorials/img/project-your-repository.png)
 
 ---
 
@@ -231,17 +231,17 @@ You will see your project folder structure. Now your local folder is synced to t
 
 1. Sign up to [Netlify](https://www.netlify.com/).
 
-![img](../static/img/netlify-signup.png)
+![img](/Tutorials/img/netlify-signup.png)
 
 Or log in, if you already have an account.
 
 2. Press the **New site from Git** button.
 
-![img](../static/img/new-site-from-git.png)
+![img](/Tutorials/img/new-site-from-git.png)
 
 3. Select **GitHub** as your Git provider.
 
-![img](../static/img/connect-to-github.png)
+![img](/Tutorials/img/connect-to-github.png)
 
 4. Authorize Netlify's access to your GitHub repository.
 
@@ -249,31 +249,29 @@ You will see the list of your repositories.
 
 5. Pick the repository that you've created in the previous step.
 
-![img](../static/img/pick-repository.png)
+![img](/Tutorials/img/pick-repository.png)
 
 6. Select **Deploy site**.
 
-![img](../static/img/deploy-settings.png)
+![img](/Tutorials/img/deploy-settings.png)
 
 You will see Netlify deploying your site with some funny name.
 
-![img](../static/img/deploy-progress.png)
+![img](/Tutorials/img/deploy-progress.png)
 
-:::note
-The building of your site for the first time takes several minutes. Be patient. When the build finishes, you will see the **Published** status.
-:::
+{{< alert title="Note" >}}The building of your site for the first time takes several minutes. Be patient. When the build finishes, you will see the **Published** status.{{< /alert >}}
 
-![img](../static/img/site-deployed.png)
+![img](/Tutorials/img/site-deployed.png)
 
 7. Change the site name to something more relevant.
 
-![img](../static/img/change-site-name.png)
+![img](/Tutorials/img/change-site-name.png)
 
 8. Click the new site name to visit its page. My test site:
 
 [https://sample-jekyll.netlify.app/](https://sample-jekyll.netlify.app/)
 
-![img](../static/img/sample-jekyll-site.png)
+![img](/Tutorials/img/sample-jekyll-site.png)
 
 ---
 
