@@ -1,7 +1,7 @@
 
 ---
 title: "Static Site Generators"
-linkTitle: "SSG"
+linkTitle: "Static Site Generators"
 weight: 1
 date: 2017-01-04
 description: >
