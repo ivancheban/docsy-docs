@@ -2,7 +2,7 @@
 ---
 title: "Static Site Generators"
 linkTitle: "Static Site Generators"
-weight: 3
+weight: 11
 date: 2017-01-04
 description: >
   Show how to use different SSGs

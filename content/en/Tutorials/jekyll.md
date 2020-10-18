@@ -1,7 +1,7 @@
 ---
 title: "Jekyll"
 date: 2020-10-18
-weight: 44
+weight: 111
 description: >
   When I first started exploring the CI/CD and the SSGs, the first generator that I learned was Jekyll. I used [Getting started with the Documentation Theme for Jekyll](https://idratherbewriting.com/documentation-theme-jekyll/) by Tom Johnson, the famous guru of technical writing known by his [I'd Rather Be Writing blog](https://idratherbewriting.com/).
   So without too many words, let's start building our first documentation portal using Tom's Jekyll theme. I will try to explain even the evident things.
