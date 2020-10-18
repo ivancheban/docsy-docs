@@ -1,12 +1,8 @@
----
-title: "Documentation"
-linkTitle: "Documentation"
-weight: 20
-type: list
-menu:
-  main:
-    weight: 20
----
++++
+title = "Documentation"
+linkTitle = "Documentation"
+
++++
 
 {{% pageinfo %}}
 This is a placeholder page that shows you how to use this template site.
